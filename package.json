@@ -1,0 +1,20 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "- [📖 JavaScript Objects ](#-javascript-objects-)   - [🛠 Built With ](#-built-with-)     - [Tech Stack ](#tech-stack-)   - [⭐️ Key Features ](#️-key-features-) - [💻 Getting Started ](#-getting-started-)   - [Setup](#setup) - [👩🏽‍💻 Author ](#-author-) - [🤝 Contributing ](#-contributing-) - [⭐️ Show your support ](#️-show-your-support-) - [📝 License ](#-license-)",
+  "main": "Auto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/IvonneBenitesRodriguez/objects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvonneBenitesRodriguez/objects/issues"
+  },
+  "homepage": "https://github.com/IvonneBenitesRodriguez/objects#readme"
+}
