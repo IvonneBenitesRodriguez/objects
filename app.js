@@ -1,3 +1,4 @@
+// Creating un object named dog
 const dog = {
   name: "Lucas",
   age: "8",
